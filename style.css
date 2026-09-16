@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+texto secundario {
+    color: pink;
+    margin-left: 20px;
+}
+
+#negrito{
+    text-decoration: underline;
+}
